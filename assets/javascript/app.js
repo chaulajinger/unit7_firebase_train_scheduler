@@ -1,8 +1,4 @@
 // Global Variables
-var welcome = new Audio("assets/audio/steamTrain.mp3");
-var successT = new Audio("assets/audio/TaDa.mp3");
-var audio3 = new Audio("assets/audio/TrainWhistle.mp3");
-var denied = new Audio("assets/audio/Denied.mp3");
 var name;
 var destination;
 var firstArrival;

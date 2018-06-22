@@ -1,16 +1,17 @@
 body {
   margin: 2% 5%;
-  background: url("../../assets/images/mochaGrunge.png");
+  background: url("../../assets/images/richmond_va_train.png");
 }
 
 .jumbotron {
   text-align: center;
-  background: #0061ff;
-  color: snow;
+  background: rgba(12, 12, 105, 0.795);
+  color: #f3f0f0f8;
 }
 
 h1, p {
   text-shadow: 0 0 20px #000000;
+  font-family: 'Verdana', sans-serif, 'Anton';
 }
 
 td {
@@ -21,17 +22,17 @@ td {
 
 th {
   text-align: center;
-  border-bottom: 2px solid #000000 !important;
-  border-right: 2px solid #000000 !important;
+  border-bottom: 2px solid rgba(12, 12, 105, 0.795) !important;
+  border-right: 2px solid rgba(12, 12, 105, 0.795) !important;
 
 }
 
 th:last-child, td:last-child {
-  border-right: none !important;
+  border-right: none ;
 }
 
 .panel, .jumbotron {
-  border: 5px solid #0000ff !important;
+  border: 6px solid rgb(128, 6, 6) !important;
   border-radius: 10px;
 }
 
